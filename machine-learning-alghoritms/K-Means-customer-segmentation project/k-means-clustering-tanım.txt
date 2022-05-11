@@ -1,0 +1,6 @@
+- denetimsiz öğrenme algoritmasıdır
+-verilerden rastgele k tane merkez nokta seçer ve merkez noktalara en yakın noktaları k tane gruba ayırır
+- sonra ayrılan gruptaki verilerin ağrılık merkezini hesaplar ve o noktayı yeni merkez centroid olarak atar
+-sonra tekrar gruplandırır
+-bu adımları centroidler artık yer değiştirmeyene kadar devam eder 
+-gruplandırmayı bitirir
